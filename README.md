@@ -6,7 +6,8 @@ src/com/pertemuan4/
 ```
 
 Di dalam package tersebut, kamu harus membuat program Java yang menggunakan konsep:
-ArrayList → untuk menyimpan banyak data secara dinamis
+
+ArrayList → untuk menyimpan banyak data secara dinamis <br>
 Scanner → untuk membaca input dari pengguna
 
 💡 Contoh Tema (bebas pilih):
